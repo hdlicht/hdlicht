@@ -18,7 +18,5 @@ I'm an engineer with experience in robotics, industrial controls, and data scien
   [View Repo »](https://github.com/hdlicht/cis5810_final_gait_classifier)
 
 - **RoboXyloHero**  
-  Mechatronic arcade game modeled after Guitar Hero. Features an IMU-based motion-sensing controller and a servo-based robotic arm.   
+  Mechatronic arcade game inspired by Guitar Hero. Features an IMU-based motion-sensing controller and a servo-based robotic arm.   
   [View Repo »](https://github.com/hdlicht/roboxylohero)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hdlicht&show_icons=true&hide=stars&count_private=true)
